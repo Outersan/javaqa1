@@ -1,5 +1,5 @@
 public class Main {
-    public static void main(String[] args) {
+    public static void Main(String[] args) {
 
         int eaters = 5; // сколько людей будут есть
 
